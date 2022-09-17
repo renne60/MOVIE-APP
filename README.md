@@ -1,2 +1,2 @@
-# curso-api-rest-javascript-practico
+# mOVIE APP Practico
 Curso Práctico de Consumo de API REST con JavaScript
